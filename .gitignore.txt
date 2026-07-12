@@ -1,0 +1,31 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# H2 Database
+*.mv.db
+*.trace.db
+
+# Environment
+.env
+
+# Node
+node_modules/
+
+# React build
+build/
+dist/
