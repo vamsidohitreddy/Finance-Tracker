@@ -37,4 +37,4 @@ finance-tracker-frontend/dist/
 
 
 #Backend
-finance-tracker-backend/src/main/resources/application.properties
+finance-tracker-backend\src\main\resources
