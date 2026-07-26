@@ -14,7 +14,7 @@ export default function Sidebar() {
   return (
     <>
       <div className="mobile-topbar">
-        <span className="brand">Ledgerline</span>
+        <span className="brand">Personal Finance Tracker</span>
         <button
           className="hamburger-btn"
           aria-label="Open menu"
@@ -31,8 +31,8 @@ export default function Sidebar() {
 
       <aside className={`sidebar ${mobileOpen ? 'sidebar-open' : ''}`}>
         <div>
-          <div className="brand">Ledgerline</div>
-          <div className="brand-sub">Personal Finance Ledger</div>
+          <div className="brand">Personal Finance Tracker</div>
+          {/* <div className="brand-sub">Personal Finance Ledger</div> */}
         </div>
 
         <nav>
